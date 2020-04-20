@@ -8,20 +8,20 @@ _______________
 
 * Lundi 20 avril :
 	* Rapels python POO
-	* Rapels librairies numpy et pandas 
-  
-* Mardi 21 avril : 
+	* Rapels librairies numpy et pandas
+
+* Mardi 21 avril :
 	* Rapels librairies numpy, pandas et sklearn (suite)
-	* Workshop Docker et python 
-  
-* Mercredi 22 avril : 
+	* Workshop Docker et python
+
+* Mercredi 22 avril :
 	* Workshop Docker (suite)
-	* Workshop API python 
+	* Workshop API python
 
 * Jeudi 23 avril : 
 	* Workshop flask pour le ml 
 
-* Vendredi 24 avril :   
+* Vendredi 24 avril :
 	* Workshop flask pour le ml (suite)
 
 
